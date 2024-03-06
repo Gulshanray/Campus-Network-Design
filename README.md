@@ -5,14 +5,14 @@ The aim of this project is to design the topology of the university network usin
 
 ## Contributors
 
-- [Shivam Shukla](https://github.com/Gulshanray)
-- [Raja Kumar](https://github.com/vivek-goyal12)
+- [Shivam Shukla](https://github.com/itshukla)
+- [Raja Kumar](*)
 
 # Project Mentor:
 Gulshan kumar 
 
 # Contacts:
-Feel free to contact us if you have any further queries, at: raygulshan960@gmail.com and  .
+Feel free to contact us if you have any further queries, at: raygulshan960@gmail.com and imakash122@gmail.com .
 
 ## Project Meeting:-
 Date - 26/02/2024
