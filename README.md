@@ -5,7 +5,7 @@ The aim of this project is to design the topology of the university network usin
 
 ## Contributors
 
-- [Jitendra Singh](https://github.com/jet0499)
+- [Gulshan kumar](https://github.com/jet0499)
 - [Vivek Goyal](https://github.com/vivek-goyal12)
 
 # Project Mentor:
